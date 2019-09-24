@@ -1,0 +1,9 @@
+This is a test of certain unusual words with punctuation and odd characters. 
+?first? 
+sec?ond
+?third
+fourth?
+0123456789
+fifth
+日本語のテスト
+sixth
